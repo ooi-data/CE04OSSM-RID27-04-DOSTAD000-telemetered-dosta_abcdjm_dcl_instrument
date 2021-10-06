@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE04OSSM-RID27-04-DOSTAD000-telemetered-dosta_abcdjm_dcl_instrument
 data_stream: CE04OSSM-RID27-04-DOSTAD000-telemetered-dosta_abcdjm_dcl_instrument
 end_date: '2021-10-05T20:33:16.204Z'
-last_updated: '2021-10-06T02:36:40.458504Z'
+last_updated: '2021-10-06T03:20:16.540382'
 start_date: '2015-04-07T23:00:14.073Z'
-status: pending
+status: success
